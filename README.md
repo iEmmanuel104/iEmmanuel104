@@ -1,22 +1,13 @@
 # Hi there, I'm Emmanuel 👋 #
 * 🌱 I’m continously learning to code in
   * Javascript
+  * Typescript
   * Python
   * HTML/ CSS
   * NodeJs and ReactJs.
 * 😄 I am a fullstack developer. My tech stack includes but not limited to: Rest APIs, Git, Database management e.t.c
 * 👯 I’m looking forward to working as a Software Developer (Remote).
 * 🔭 Checkout some of my projects here  <a href="https://iemmanuel104.github.io"><img src="https://img.shields.io/badge/Portfolio-blue?style=for- thebadge&logoColor=white" target = "_blank"/></a>
-
----
-<center>
-  <table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=iEmmanuel104&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
-        <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEmmanuel104&hide=html&layout=compact&theme=dark" /></td>      
-    </tr>   
-  </table>
-</center>
 
 ---
 
