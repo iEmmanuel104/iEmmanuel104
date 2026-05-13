@@ -107,10 +107,10 @@ These six pinned repos showcase the breadth of work across PaaS infrastructure, 
 
 <p align="center">
   <a href="https://github.com/iEmmanuel104">
-    <img src="https://github-readme-stats.vercel.app/api?username=iEmmanuel104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&hide=issues" alt="Emmanuel's GitHub stats" height="180">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iEmmanuel104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&hide=issues" alt="Emmanuel's GitHub stats" height="180">
   </a>
   <a href="https://github.com/iEmmanuel104">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEmmanuel104&layout=compact&hide_border=true&title_color=1F3A5F&langs_count=8" alt="Top languages" height="180">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iEmmanuel104&layout=compact&hide_border=true&title_color=1F3A5F&langs_count=8" alt="Top languages" height="180">
   </a>
 </p>
 
