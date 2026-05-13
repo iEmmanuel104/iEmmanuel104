@@ -88,31 +88,7 @@
 
 ---
 
-## 🌟 Featured Projects
-
-These six pinned repos showcase the breadth of work across PaaS infrastructure, Web3, AI/LLM orchestration, and OSS tooling. Click into any of them for full READMEs and architecture writeups.
-
-| Project | Stack | What it does |
-|---|---|---|
-| **[deployx](https://github.com/iEmmanuel104/deployx)** | Fastify · SvelteKit 5 · Drizzle · SQLite · Docker · Traefik | Lightweight self-hosted PaaS — deploy web apps on a single VPS with Railway/Render-quality UX |
-| **[PODX](https://github.com/iEmmanuel104/PODX)** ⭐ | Next.js · Express · Stream.io · Privy · Coinbase OnchainKit | On-chain Web3 video meeting platform with token-gated calls, on-chain tipping, and POAP minting |
-| **[ragcontext](https://github.com/iEmmanuel104/ragcontext)** | Node · Drizzle · pgvector · Qdrant · Turborepo | "Stripe for RAG" — multi-tenant RAG infrastructure with dual vector backends and circuit-breakered connectors |
-| **[expo-shipkit](https://github.com/iEmmanuel104/expo-shipkit)** | TypeScript · npm v2.1.0 (MIT) | Open-source CLI automating Expo/EAS build + App Store / Play Store submission with version tracking |
-| **[autovidit](https://github.com/iEmmanuel104/autovidit)** | Node · Python · BullMQ · Supabase · Gemini · Leonardo | Serverless AI video pipeline chaining LLM script gen → image gen → edge-tts voice synthesis |
-| **[SARA](https://github.com/iEmmanuel104/SARA)** ([live](https://sara-azure.vercel.app)) | Next.js · NestJS · Prisma · Privy · Vercel AI SDK | DWELLR — AI-powered shortlet/hotel realtor agent with crypto-native payments |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/iEmmanuel104">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=iEmmanuel104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&hide=issues" alt="Emmanuel's GitHub stats" height="180">
-  </a>
-  <a href="https://github.com/iEmmanuel104">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iEmmanuel104&layout=compact&hide_border=true&title_color=1F3A5F&langs_count=8" alt="Top languages" height="180">
-  </a>
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
   <a href="https://github.com/iEmmanuel104">
