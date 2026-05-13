@@ -1,52 +1,133 @@
-# Hi there, I'm Emmanuel 👋 #
-* 🌱 I’m continously learning to code in
-  * Javascript
-  * Typescript
-  * Python
-  * HTML/ CSS
-  * NodeJs and ReactJs.
-* 😄 I am a fullstack developer. My tech stack includes but not limited to: Rest APIs, Git, Database management e.t.c
-* 👯 I’m looking forward to working as a Software Developer (Remote).
-* 🔭 Checkout some of my projects here  <a href="https://iemmanuel104.github.io"><img src="https://img.shields.io/badge/Portfolio-blue?style=for- thebadge&logoColor=white" target = "_blank"/></a>
+<h1 align="center">Hi, I'm Emmanuel Umukoro 👋</h1>
+
+<p align="center">
+  <em>Senior Software Engineer — Web3 · AI/LLM · Scalable Microservices</em>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iEmmanuel104"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Emmanuel.umukoro22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://dev.to/iEmmanuel104"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://iemmanuel104.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=flat&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=iEmmanuel104&style=flat&color=1F3A5F" alt="Profile views">
+</p>
 
 ---
 
-## Technologies and Tools ##
+## 🧭 About me
 
-<div align="center">
-   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="30"/>
-  <img src="https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" height="30"/>  
-  <img src="https://img.shields.io/badge/-ExpressJS-grey?style=for-the-badge&logo=express&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql&logoColor=lightblue" height="30" />
-  <img src="https://img.shields.io/badge/-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30"/>
- <img src="https://img.shields.io/badge/Ghost-Templating%20Engine-738A94?style=flat-square&logo=ghost height="30"/>
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" title="KRITA" alt="KRITA" height="30"/>&nbsp;
-</div>
+- 🛠 **5+ years** designing and shipping production-grade systems across fintech, identity verification, real-time chat, music royalties, and AI agents.
+- 🚀 **Currently:** Founding Backend Engineer at **[Synquanta](https://synquanta.com)** building AI-driven SMB lead-research pipelines · open-sourcing **[DeployX](https://github.com/iEmmanuel104/deployx)**, a self-hosted Railway-style PaaS.
+- 🎯 **Focus areas:** TypeScript/Node backends · multi-tenant SaaS architecture · AI agent frameworks (MCP, LangChain, Vercel AI SDK) · Web3 (Solidity, ZK-SNARKs, Account Abstraction).
+- 📍 **Lagos, Nigeria** · open to remote and relocation.
+- 💬 Happy to chat about distributed systems, DDEX music distribution, on-chain identity, or building agentic LLM apps.
 
 ---
 
-## Contact Me ##
+## 🧰 Tech Stack
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/emmanuel-umukoro-2199a5189">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="Emmanuel.umukoro22@gmail.com">
-    <img src = https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-  </a>
-  <a href="https://twitter.com/EmmanuelUmukor0?t=D89llY3Z1G8jShMuK4HTzg&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <a href="https://dev.to/iEmmanuel104">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
-  </a>
-</div>
+**Languages**
+<br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 
+**Backend**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+<img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white" alt="Hono">
+<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io">
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=iEmmanuel104)
+**Frontend**
+<br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+
+**Data & Messaging**
+<br>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+<img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery">
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black" alt="Drizzle">
+<img src="https://img.shields.io/badge/BullMQ-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="BullMQ">
+
+**Cloud & DevOps**
+<br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white" alt="Traefik">
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+
+**Web3 / Blockchain**
+<br>
+<img src="https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethers.js">
+<img src="https://img.shields.io/badge/Viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black" alt="Viem">
+<img src="https://img.shields.io/badge/Privy-3F5DEC?style=for-the-badge&logoColor=white" alt="Privy">
+<img src="https://img.shields.io/badge/Coinbase_AgentKit-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" alt="Coinbase AgentKit">
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white" alt="IPFS">
+<img src="https://img.shields.io/badge/ZK--SNARKs-9F4FFF?style=for-the-badge&logoColor=white" alt="ZK-SNARKs">
+
+**AI / LLM**
+<br>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+<img src="https://img.shields.io/badge/Anthropic-D4A373?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic">
+<img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white" alt="LangChain">
+<img src="https://img.shields.io/badge/MCP-FF6B35?style=for-the-badge&logoColor=white" alt="MCP">
+
+---
+
+## 🌟 Featured Projects
+
+These six pinned repos showcase the breadth of work across PaaS infrastructure, Web3, AI/LLM orchestration, and OSS tooling. Click into any of them for full READMEs and architecture writeups.
+
+| Project | Stack | What it does |
+|---|---|---|
+| **[deployx](https://github.com/iEmmanuel104/deployx)** | Fastify · SvelteKit 5 · Drizzle · SQLite · Docker · Traefik | Lightweight self-hosted PaaS — deploy web apps on a single VPS with Railway/Render-quality UX |
+| **[PODX](https://github.com/iEmmanuel104/PODX)** ⭐ | Next.js · Express · Stream.io · Privy · Coinbase OnchainKit | On-chain Web3 video meeting platform with token-gated calls, on-chain tipping, and POAP minting |
+| **[ragcontext](https://github.com/iEmmanuel104/ragcontext)** | Node · Drizzle · pgvector · Qdrant · Turborepo | "Stripe for RAG" — multi-tenant RAG infrastructure with dual vector backends and circuit-breakered connectors |
+| **[expo-shipkit](https://github.com/iEmmanuel104/expo-shipkit)** | TypeScript · npm v2.1.0 (MIT) | Open-source CLI automating Expo/EAS build + App Store / Play Store submission with version tracking |
+| **[autovidit](https://github.com/iEmmanuel104/autovidit)** | Node · Python · BullMQ · Supabase · Gemini · Leonardo | Serverless AI video pipeline chaining LLM script gen → image gen → edge-tts voice synthesis |
+| **[SARA](https://github.com/iEmmanuel104/SARA)** ([live](https://sara-azure.vercel.app)) | Next.js · NestJS · Prisma · Privy · Vercel AI SDK | DWELLR — AI-powered shortlet/hotel realtor agent with crypto-native payments |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/iEmmanuel104">
+    <img src="https://github-readme-stats.vercel.app/api?username=iEmmanuel104&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=1F3A5F&hide=issues" alt="Emmanuel's GitHub stats" height="180">
+  </a>
+  <a href="https://github.com/iEmmanuel104">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iEmmanuel104&layout=compact&hide_border=true&title_color=1F3A5F&langs_count=8" alt="Top languages" height="180">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iEmmanuel104">
+    <img src="https://streak-stats.demolab.com?user=iEmmanuel104&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" alt="GitHub streak" height="180">
+  </a>
+</p>
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iEmmanuel104"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:Emmanuel.umukoro22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://twitter.com/EmmanuelUmukor0"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://dev.to/iEmmanuel104"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to"></a>
+  <a href="https://iemmanuel104.github.io"><img src="https://img.shields.io/badge/Portfolio-1F3A5F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+</p>
