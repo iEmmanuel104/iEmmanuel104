@@ -18,7 +18,7 @@
 
 - 🛠 **5+ years** designing and shipping production-grade systems across fintech, identity verification, real-time chat, music royalties, and AI agents.
 - 🚀 **Currently:** Founding Backend Engineer at **[Synquanta](https://synquanta.com)** building AI-driven SMB lead-research pipelines · open-sourcing **[DeployX](https://github.com/iEmmanuel104/deployx)**, a self-hosted Railway-style PaaS.
-- 🎯 **Focus areas:** TypeScript/Node backends · multi-tenant SaaS architecture · AI agent frameworks (MCP, LangChain, Vercel AI SDK) · Web3 (Solidity, ZK-SNARKs, Account Abstraction).
+- 🎯 **Focus areas:** TypeScript/Node backends · multi-tenant SaaS architecture · cross-platform mobile (React Native + Expo, iOS + Android) · AI agent frameworks (MCP, LangChain, Vercel AI SDK) · Web3 (Solidity, ZK-SNARKs, Account Abstraction).
 - 📍 **Lagos, Nigeria** · open to remote and relocation.
 - 💬 Happy to chat about distributed systems, DDEX music distribution, on-chain identity, or building agentic LLM apps.
 
@@ -47,9 +47,20 @@
 <br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
 <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="SvelteKit">
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind">
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui">
+
+**Mobile**
+<br>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo">
+<img src="https://img.shields.io/badge/EAS_Build-4630EB?style=for-the-badge&logo=expo&logoColor=white" alt="EAS Build">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+<img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind">
+<img src="https://img.shields.io/badge/OneSignal-E54B4D?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal">
 
 **Data & Messaging**
 <br>
