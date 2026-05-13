@@ -92,7 +92,7 @@
 
 <p align="center">
   <a href="https://github.com/iEmmanuel104">
-    <img src="https://streak-stats.demolab.com?user=iEmmanuel104&hide_border=true&ring=1F3A5F&fire=1F3A5F&currStreakLabel=1F3A5F" alt="GitHub streak" height="180">
+    <img src="https://streak-stats.demolab.com?user=iEmmanuel104&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=39D353&fire=39D353&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" alt="GitHub streak" height="180">
   </a>
 </p>
 
